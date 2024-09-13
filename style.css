@@ -5,9 +5,10 @@ body {
     margin: 0;
     padding: 20px;
 }
-
-h1 {
-    color: #333;
+.heading{
+    display: flex;
+    justify-content: center;
+    margin-left: 50px;
 }
 
 input {
@@ -41,3 +42,4 @@ img {
     border: 1px solid #ddd;
     border-radius: 5px;
 }
+
